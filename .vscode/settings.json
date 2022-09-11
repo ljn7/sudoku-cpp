@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\Git\\sudoku-cpp",
+            "binaryPath": "d:\\Git\\sudoku-cpp\\sudoku.exe",
+            "binaryArgs": []
+        }
+    ]
+}
